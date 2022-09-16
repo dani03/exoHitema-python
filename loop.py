@@ -142,5 +142,11 @@ while number > somme:
   i+= 1
 
 print(all_values)
+print(i-1)
+
+
+#progammation dynamique
+
+  
     
 
